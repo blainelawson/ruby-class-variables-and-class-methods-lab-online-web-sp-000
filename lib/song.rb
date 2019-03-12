@@ -38,5 +38,5 @@ class Song
     Song.genres.each do |genre|
       binding.pry
     end
-
+  end
 end
